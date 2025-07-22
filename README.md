@@ -28,10 +28,12 @@ Upload an image of your waste.
 
 The AI system will analyze and categorize it.
 
-📸 Screenshot image
+<img width="1553" height="895" alt="image" src="https://github.com/user-attachments/assets/4e0be0b0-4fb5-4f47-b38c-4a85b7dab806" />
+
+
 
 🤝 Contributing tannukaushik1
 
 📜 License This project is open-source.
 
-📞 Contact For any issues, reach out via: 📧 Email: satyagmishra20@gmail.com, satyamishra0522@gmail.com, tannukaushik1503@gmail.com 🔗 GitHub: satya-ctrl , tannukaushik1
+📞 Contact For any issues, reach out via: 📧 Email:tannukaushik1503@gmail.com,satyagmishra20@gmail.com, satyamishra0522@gmail.com 🔗 GitHub: satya-ctrl , tannukaushik1
