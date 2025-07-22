@@ -1,4 +1,5 @@
 📌 SMART E-WASTE COLLECTION
+
 A web-based platform that helps users locate E-Waste Collection Centers using OpenStreetMap (Leaflet.js) and categorize waste using AI-based sorting.
 
 🔹 Features ✔ Locate Collection Machines – Uses OpenStreetMap with Leaflet.js (Free & No API Key Required). ✔ AI-Based Waste Sorting – Upload an image and get an AI-generated category for your waste. ✔ Responsive Design – Works on all screen sizes.
